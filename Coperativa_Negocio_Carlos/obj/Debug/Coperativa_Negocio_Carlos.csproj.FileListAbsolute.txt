@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\Coperativa_Negocio_Carlos.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\Coperativa_Negocio_Carlos.pdb
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\obj\Debug\Coperativa_Negocio_Carlos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\obj\Debug\Coperativa_Negocio_Carlos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\obj\Debug\Coperativa_Negocio_Carlos.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\obj\Debug\Coperativa_Negocio_Carlos.pdb
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperativa_Negocio_Carlos\obj\Debug\Coperativa_Negocio_Carlos.csproj.CopyComplete

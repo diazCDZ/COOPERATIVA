@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\obj\Debug\Coperartiva_Datos_Carlos.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\obj\Debug\Coperartiva_Datos_Carlos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\Coperartiva_Datos_Carlos.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\Coperartiva_Datos_Carlos.pdb
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\obj\Debug\Coperartiva_Datos_Carlos.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\obj\Debug\Coperartiva_Datos_Carlos.pdb
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\slnCoperativa_CarlosDiaz\Coperartiva_Datos_Carlos\obj\Debug\Coperartiva_Datos_Carlos.csproj.CopyComplete
